@@ -34,7 +34,7 @@ Aujourd'hui **Senior System Architect chez Bedrock (groupe M6)**, en charge de p
 |---|---|
 | **Kubernetes** | Pilotage de 20+ clusters à très fort trafic (+500 nœuds) en production |
 | **Coûts cloud** | Optimisation via Karpenter, Spot instances, rightsizing CPU/RAM, MultiArch |
-| **Observabilité** | Déploiement de VictoriaMetrics distribué — [voir l'article]([https://votre-lien-article-ici](https://tech.bedrockstreaming.com/2022/09/06/monitoring-at-scale-with-victoriametrics.html)) |
+| **Observabilité** | Déploiement de VictoriaMetrics distribué — [voir l'article](https://tech.bedrockstreaming.com/2022/09/06/monitoring-at-scale-with-victoriametrics.html) |
 | **CI/CD** | Workflows GHA pour déploiement de clusters, apps Helm et ressources Terraform |
 | **IA** | Intégration opérationnelle de l'IA : code review, analyse d'alertes, routines automatisées |
 
