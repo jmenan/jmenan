@@ -9,7 +9,7 @@ Aujourd'hui **Senior System Architect chez Bedrock (groupe M6)**, en charge de p
 ## 🔧 Stack & Compétences
 
 **Orchestration & Conteneurs**
-`Kubernetes` `KOps` `Docker` `Helm` `Helmfile` `Karpenter` `KEDA` `Cilium/eBPF`
+`Kubernetes` `KOps` `Docker` `Helm` `Helmfile` `Karpenter` `Keda` `Cilium`
 
 **Cloud & IaC**
 `AWS` `Terraform` `Packer` `Vault` `Consul` `Sops`
