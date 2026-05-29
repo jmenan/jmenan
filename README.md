@@ -59,7 +59,7 @@ Management d'une équipe de 8 personnes, incidents N3, migration M6web vers AWS.
 
 ## 📄 CV
 
-➡️ [Télécharger le CV (PDF)](./cv/CV-Julien-Menan.pdf)
+➡️ [Télécharger le CV (PDF)](https://github.com/jmenan/jmenan/blob/main/CV-Julien-Menan-2026.pdf)
 
 ---
 
