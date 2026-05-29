@@ -42,18 +42,45 @@ Aujourd'hui **Senior System Architect chez Bedrock (groupe M6)**, en charge de p
 
 ## 💼 Expérience
 
-**Senior System Architect** — Bedrock (groupe M6) · *depuis sept. 2020 · Full remote*
+### 🏢 Senior System Architect — Bedrock (groupe M6)
+📅 *Depuis sept. 2020 · Full remote*
+
 Plateformes de streaming vidéo, 1M+ utilisateurs simultanés.
 
-**Ingénieur Infrastructure** — Swile · *2019 – 2020 · Montpellier*
-Migration Heroku → AWS, InfraAsCode, CI/CD, sécurité, Datadog.
+- Amélioration continue de 20+ clusters Kubernetes (Cilium/eBPF, KEDA, Karpenter, Spot instances, MultiArch)
+- Migration Canary de clusters sans interruption de service
+- Observabilité : VictoriaMetrics & Loki, définition SLOs/SLAs, fine-tuning alerting / MTTR
+- Workflows GitHub Actions pour déploiement de clusters, apps Helm et ressources Terraform
+- Intégration IA opérationnelle (Cursor, Claude) : code review, analyse d'alertes, routines automatisées
 
-**Team Lead Linux & Stockage** — Axians CSP · *2014 – 2019 · Paris*
-Management d'une équipe de 8 personnes, incidents N3, migration M6web vers AWS.
+---
 
-**Admin Linux & Stockage N3** — Axians CSP · *2011 – 2014*
+### 🏢 Ingénieur Infrastructure — Swile
+📅 *2019 – 2020 (2 ans) · Montpellier*
 
-**Admin Linux & Stockage / Technicien** — Pixmania · *2006 – 2011*
+Migration et industrialisation de l'infrastructure sur AWS.
+
+- Migration complète Heroku → AWS en Infrastructure as Code
+- Mise en place CI/CD pour le déploiement des applications
+- Gestion de la sécurité : secrets, permissions, isolation réseau et SSO
+- Déploiement Datadog (logs, métriques, APM, alerting)
+
+---
+
+### 🏢 Team Lead Linux & Stockage — Axians CSP
+📅 *2014 – 2019 (4,5 ans) · Paris / Full remote*
+
+Management d'une équipe de 8 personnes dédiée à M6web, gestion des incidents N3, migration M6web vers AWS.
+
+---
+
+### 🏢 Admin Linux & Stockage N3 — Axians CSP
+📅 *2011 – 2014 (3 ans) · Paris*
+
+---
+
+### 🏢 Admin Linux & Stockage / Technicien Supérieur — Pixmania
+📅 *2006 – 2011 (5 ans) · Paris*
 
 ---
 
