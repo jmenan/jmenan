@@ -65,7 +65,7 @@ Management d'une équipe de 8 personnes, incidents N3, migration M6web vers AWS.
 
 ## 📬 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/julienmenan) *(à mettre à jour avec ton URL LinkedIn réelle)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/julien-menan)
 - 📧 julien@menan.org
 
 ---
