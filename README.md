@@ -18,7 +18,7 @@ Aujourd'hui **Senior System Architect chez Bedrock (groupe M6)**, en charge de p
 `GitHub Actions` `CircleCI` `Jenkins`
 
 **Observabilité**
-`VictoriaMetrics` `Loki` `Prometheus` `Datadog` `Alerting / SLOs / MTTR`
+`VictoriaMetrics` `Loki` `Prometheus` `grafana` `Datadog` `Alerting / SLOs / MTTR`
 
 **IA & Automatisation**
 `Claude` `Cursor` `MCP` `Skills` `Routines`
